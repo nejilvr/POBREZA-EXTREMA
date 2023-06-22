@@ -1,0 +1,11 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+  "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <form> <input type = "button" value = "&laquo;" onclick = "history.back ()"> </form>
+  <title>pobreza en guatemala</title>
+
+</head>
+<body bgcolor="#cc9966">
+<center><FONT FACE="Forte" SIZE=15 COLOR="#604020">GUATEMALA</font></center>
+<p><FONT FACE="Cambria Math" SIZE=4 COLOR="#000000" >
